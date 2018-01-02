@@ -5,6 +5,7 @@ body {
 
 .test-space {
   height: 3000px;
+  background-color: blue;
 }
 
 .main-header {
